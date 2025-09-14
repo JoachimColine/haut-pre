@@ -1,7 +1,10 @@
+baseURL = "https://joachimcoline.github.io/haut-pre/"
 languageCode = 'fr-fr'
 title = 'Royal Haut-Pré Ougrée'
 theme = 'mainroad'
 defaultContentLanguage = "fr"
+publishDir = "docs"
+
   
 [Params]
   description = "Site web du Royal Haut-Pré Ougrée" # Description of your site
