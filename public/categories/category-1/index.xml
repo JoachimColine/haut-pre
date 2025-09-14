@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category 1 on Royal Haut-Pré Ougrée</title>
+    <link>//localhost:1313/categories/category-1/</link>
+    <description>Recent content in Category 1 on Royal Haut-Pré Ougrée</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 14 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/category-1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🏀 Un nouveau site est apparu!</title>
+      <link>//localhost:1313/publications/2025-14-09-premier_article/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publications/2025-14-09-premier_article/</guid>
+      <description>&lt;p&gt;À l’occasion de la rentrée, le Club de Basket est heureux d’annoncer le lancement de son tout nouveau site web. Pensé pour être plus moderne, intuitif et interactif, il a été entièrement repensé afin de mieux répondre aux besoins des joueurs, des familles et des supporters.&lt;/p&gt;&#xA;&lt;p&gt;Grâce à cette refonte, il est désormais plus simple de :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;S’informer sur les équipes et les calendriers : retrouvez facilement les horaires des entraînements et des matchs.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

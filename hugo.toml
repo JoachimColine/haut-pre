@@ -1,0 +1,62 @@
+languageCode = 'fr-fr'
+title = 'Royal Haut-Pré Ougrée'
+theme = 'mainroad'
+defaultContentLanguage = "fr"
+  
+[Params]
+  description = "Site web du Royal Haut-Pré Ougrée" # Description of your site
+  pager = true
+  opengraph = true # Enable OpenGraph if true
+  schema = true # Enable Schema
+  post_meta = ["date", "categories"] # Order of post meta information
+  mainSections = ["publications", "calendrier", "resultats", "documents", "contact"]
+  readmore = true
+  dateFormat = "2 January 2006"
+  
+[Params.logo]
+  subtitle = "Club de basketball depuis plus de 50 ans"
+  image = "img/HP.jpg"
+
+[Params.sidebar]
+  home = "right"   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["recent", "categories", "taglist"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+  
+[menu]
+  [[menu.main]]
+    name = "Accueil"
+    url  = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Publications"
+    url  = "/publications/"
+    weight = 2
+	identifier = "publications"
+
+  [[menu.main]]
+    name = "Calendrier"
+    url  = "/calendrier/"
+    weight = 3
+	identifier = "calendrier"
+  [[menu.main]]
+    name = "Résultats"
+    url  = "/resultats/"
+    weight = 4
+	identifier = "resultats"
+  [[menu.main]]
+    name = "Documents"
+    url  = "/documents/"
+    weight = 5
+	identifier = "documents"
+  [[menu.main]]
+    name = "Contact"
+    url  = "/contact/"
+    weight = 6
+	identifier = "contact"
